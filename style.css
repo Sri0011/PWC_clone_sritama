@@ -181,17 +181,18 @@ header {
 }
 
 
-.publication-icon {
-    background-color: gray;
-    color: white;
+ .publication-icon { 
+    background-color: rgb(241, 232, 232);
+    color: rgb(28, 21, 21);
     width: 40px;
-    height: 40px;
+    height: 70px;
     display: flex;
+    border-radius: 0%;
     justify-content: center;
     align-items: center;
-    border-radius: 50%;
+    
     margin-right: 10px;
-}
+} 
 
 .publication h3 {
     font-size: 16px;
@@ -260,4 +261,118 @@ header {
 .footer-copyright a {
     color: #0074b8;
     text-decoration: none;
+}
+
+
+
+
+
+/* Navbar Button Styles */
+.button_white:hover,
+.button-red:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Section One Button Styles */
+.section-buttons .button-red:hover {
+    background-color: #fff;
+    color: #e74c3c;
+}
+
+/* Section Two Button Styles */
+.section-two .button_white:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Publication Button Styles */
+.section-three .button_white:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Hover Effect for Publication Boxes */
+.publication:hover {
+    background-color: #0074b8;
+    color: white;
+}
+/* Your existing CSS code */
+
+/* Navbar Button Styles */
+.button_white:hover,
+.button-red:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Section Two Button Styles */
+.section-two .button_white:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Publication Button Styles */
+.section-three .button_white:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Hover Effect for Publication Boxes */
+.publication:hover {
+    background-color: #0074b8;
+    color: white;
+}
+/* Your existing CSS code */
+
+/* Navbar Button Styles */
+.button_white:hover,
+.button-red:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Section Two Button Styles */
+.section-two .button_white:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Publication Button Styles */
+.section-three .button_white:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Hover Effect for Publication Boxes */
+.publication:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Your existing CSS code */
+
+/* Navbar Button Styles */
+.button_white:hover,
+.button-red:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Section Two Button Styles */
+.section-two .button_white:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Publication Button Styles */
+.section-three .button_white:hover {
+    background-color: #0074b8;
+    color: white;
+}
+
+/* Hover Effect for Publication Boxes */
+.publication:hover {
+    background-color: #0074b8;
+    color: white;
 }
